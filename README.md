@@ -1,1 +1,1 @@
-# dictAPI
+# projectDictionary
